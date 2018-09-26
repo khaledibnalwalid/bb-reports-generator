@@ -15,3 +15,5 @@ just read this to install LAMP : https://howtoubuntu.org/how-to-install-lamp-on-
 just download XAMPP and install it from here : https://www.apachefriends.org/download.html
 
 after install your server just edit ``config.php`` and enjoy
+
+**Feel free to send your feedback to** contact@khaledibnalwalid.com
