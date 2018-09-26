@@ -1,6 +1,6 @@
 **About Bug bounty reports generator**
 
-The bug bounty reports generator is PHP script teach the beginner bug hunter how to write his report in a good way and It saves time for all bug hunters
+The bug bounty reports generator is PHP script generate a bug bounty report in a markdown formant to teach the beginner bug hunter how to write his report in a good way and It saves time for all bug hunters
 
 **Installing**
 
