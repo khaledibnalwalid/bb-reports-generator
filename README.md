@@ -7,7 +7,7 @@ The Purpose of this Repo is to advise the newbie bug hunters in an effective way
 1. Clone the Generator Directory in your Server Path
 2. Upload generator.sql file to your MySQL
 
-   ### Windows Users
+   ### Linux Users
  	* Refer to this resource  https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
         * Edit config.php file then Enjoy!
 
